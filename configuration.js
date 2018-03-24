@@ -6,6 +6,6 @@ module.exports = cv.setup((getenv) => ({
     jx: {
         certPath: getenv("JX_IN_RSA_CERT_PATH"),
         servicePort: getenv("JX_SERVICE_PORT"),
-        adminHost: getenv("JX_ADMIN_HOST")
+        adminHost: getenv("JX_ADMIN_EXTERNAL_HOST")
     }
 }));
