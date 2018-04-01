@@ -3,5 +3,6 @@ module.exports = [
     "vehicles",
     "captchas",
     "register",
-    "users"
+    "users",
+    "roles"
 ];
