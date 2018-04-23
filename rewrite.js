@@ -1,5 +1,6 @@
 module.exports = [
     "orders",
+    "drivers",
     "vehicles",
     "captchas",
     "register",
