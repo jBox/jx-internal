@@ -5,5 +5,6 @@ module.exports = [
     "captchas",
     "register",
     "users",
-    "roles"
+    "roles",
+    "images"
 ];
